@@ -1,0 +1,10 @@
+fasthtml_src
+__pycache__
+**/*.jpeg
+**/.venv
+webdev
+**/.ipynb_checkpoints
+**/filez
+.env
+secrets
+
